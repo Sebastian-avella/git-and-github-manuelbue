@@ -1,0 +1,10 @@
+## ✅ Autoevaluación - Unidad 1: Git y GitHub
+
+A continuación, se presenta la autoevaluación según la rúbrica del curso. Todos los criterios fueron cumplidos satisfactoriamente en el nivel más alto.
+
+| Criterio de Evaluación         | Evaluación                                                                                                                                                |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Completitud de Ejercicios**   | ✅ El estudiante completó los ejercicios de refuerzo (**ejercicio Git-1 y Evaluación U1**) subidos a sus respectivos repositorios en GitHub.             |
+| **2. Calidad de Commits**          | ✅ Los mensajes de commit son **descriptivos y claros** (ej. “Añade script de saludo en Python”). Se observa un historial de al menos **10 commits** en ejercicio-git-1 y en la Tarea 0. |
+| **3. Uso Correcto del Flujo Git/GitHub** | ✅ Los repositorios están **correctamente conectados**, no hay archivos innecesarios y el `README.md` fue **formateado y personalizado**.               |
+| **4. Estructura y Nomenclatura**   | ✅ Las carpetas y archivos tienen los nombres solicitados en el texto del archivo `README.md`. La **estructura del proyecto es limpia**.                |
